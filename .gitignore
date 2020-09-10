@@ -1,0 +1,7 @@
+#Archivos a Ignorar en el Repositorio
+Nuevo documento de texto.txt
+*.tmp
+
+#Carpetas a Ignorar en el Repositorio
+/temp
+/binarios
